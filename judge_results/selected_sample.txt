@@ -1,0 +1,102 @@
+# Campione selezionato — 90 GUID
+# Generato con random.seed(42)
+
+## GRUPPO A — 45 GUID «Funzionato» (verifica PRECISIONE)
+
+  #  GUID                          conf  items  promos  Strato
+---------------------------------------------------------------------------
+  1  69e35368551a2cb157c07af2        85      7       1  80-89 (zona critica)
+  2  69e0c35313d3bd2353942df9        89     11       1  80-89 (zona critica)
+  3  69e7b6a12bfcf6b2e6310ce0        85     17       1  80-89 (zona critica)
+  4  69e6617b2bfcf6b2e630fe98        82     14       1  80-89 (zona critica)
+  5  69e626cd86e5b64551ba0290        85     29       1  80-89 (zona critica)
+  6  69e37cb7551a2cb157c07f1f        85     45       2  80-89 (zona critica)
+  7  69e34961551a2cb157c07a13        85     27       1  80-89 (zona critica)
+  8  69f1228e86e5b64551ba6f51        89     11       2  80-89 (zona critica)
+  9  69e267f086e5b64551b9dc4f        86      7       1  80-89 (zona critica)
+ 10  69ed34143da34a89f70553c2        88     13       1  80-89 (zona critica)
+ 11  69e0eea495269ef82806ff17        85      4       1  80-89 (zona critica)
+ 12  69e0c94cbe00d23ab8dad761        85     41       1  80-89 (zona critica)
+ 13  69e280a62bfcf6b2e630d593        85     25       1  80-89 (zona critica)
+ 14  69e5d28386e5b64551b9fc74        86      2       1  80-89 (zona critica)
+ 15  69e64b40551a2cb157c09d34        87     23       1  80-89 (zona critica)
+ 16  69f05c0886e5b64551ba6428        87      5       1  80-89 (zona critica)
+ 17  69e4d6ad551a2cb157c08cdc        85     11       4  80-89 (zona critica)
+ 18  69ed06b9e593340322ec7698        83     11       1  80-89 (zona critica)
+ 19  69e60e1b86e5b64551ba00de        85     13       1  80-89 (zona critica)
+ 20  69ee704686e5b64551ba5537        85      2       1  80-89 (zona critica)
+ 21  69eb3b953da34a89f7053f4e        90     10       1  90-95
+ 22  69e4844e86e5b64551b9ef5e        92     21       4  90-95
+ 23  69eeef4186e5b64551ba5642        91     50       3  90-95
+ 24  69efdb0fe593340322ec8f5e        92     43       4  90-95
+ 25  69e005adbe00d23ab8dad142        93      9       1  90-95
+ 26  69ee52b13da34a89f7055cb0        91     40       1  90-95
+ 27  69f0993a3da34a89f70571b3        95      1       1  90-95
+ 28  69e27f25551a2cb157c07537        91     21       1  90-95
+ 29  69eda903e593340322ec7853        93      7       1  90-95
+ 30  69e764bf86e5b64551ba0fb2        90      5       1  90-95
+ 31  69e4e35a2bfcf6b2e630edd9        90     35       1  90-95
+ 32  69f0a8ba86e5b64551ba6952        92     13       2  90-95
+ 33  69e25fab551a2cb157c0732b        92      1       1  90-95
+ 34  69e359b4551a2cb157c07be3        94     10       3  90-95
+ 35  69ee632e3da34a89f7055d51        93      7       2  90-95
+ 36  69e34f9b2bfcf6b2e630db70       100     37       2  96-100 (alta confidenza)
+ 37  69e24a42551a2cb157c07172        98     15       2  96-100 (alta confidenza)
+ 38  69e9c4e486e5b64551ba2684       100     17       2  96-100 (alta confidenza)
+ 39  69e31f5d86e5b64551b9dfe8        96     39       2  96-100 (alta confidenza)
+ 40  69e9074386e5b64551ba22bc       100     10       2  96-100 (alta confidenza)
+ 41  69e8f2ed86e5b64551ba2122        97      1       1  96-100 (alta confidenza)
+ 42  69ef1182e593340322ec83dd       100      5       1  96-100 (alta confidenza)
+ 43  69e73bbc86e5b64551ba0c67       100     10       3  96-100 (alta confidenza)
+ 44  69e12b5b77a85bf0348d4acc       100     15       3  96-100 (alta confidenza)
+ 45  69f0883a3da34a89f705706c       100     21       1  96-100 (alta confidenza)
+
+## GRUPPO B — 45 GUID «Nessuna promo» (verifica RECALL)
+
+  #  GUID                          items  Strato
+-------------------------------------------------------
+  1  69edb7dae593340322ec78c2          4  1-8 (scontrino corto)
+  2  69efa7f886e5b64551ba60b8          1  1-8 (scontrino corto)
+  3  69e39df8551a2cb157c080ba          7  1-8 (scontrino corto)
+  4  69eb0011551a2cb157c0cabe          7  1-8 (scontrino corto)
+  5  69e2327386e5b64551b9d895          1  1-8 (scontrino corto)
+  6  69f0808b86e5b64551ba668b          3  1-8 (scontrino corto)
+  7  69e8b980551a2cb157c0b5d6          1  1-8 (scontrino corto)
+  8  69ea352f2bfcf6b2e6312519          8  1-8 (scontrino corto)
+  9  69f0ec9d3da34a89f70575ae          7  1-8 (scontrino corto)
+ 10  69e60f3e86e5b64551ba00fe          5  1-8 (scontrino corto)
+ 11  69e1e353967b27ffdc269f2e          8  1-8 (scontrino corto)
+ 12  69e0fa5f8a7fcbbf8e29301b          1  1-8 (scontrino corto)
+ 13  69e739e7551a2cb157c0a3d9          1  1-8 (scontrino corto)
+ 14  69e8a4a4551a2cb157c0b482          4  1-8 (scontrino corto)
+ 15  69e75c8b86e5b64551ba0f33          6  1-8 (scontrino corto)
+ 16  69e31ab2551a2cb157c07715         11  9-15
+ 17  69ea038086e5b64551ba2ad4         10  9-15
+ 18  69e86d282bfcf6b2e6311154         10  9-15
+ 19  69ebabd53da34a89f70546c9         10  9-15
+ 20  69f101883da34a89f7057711         11  9-15
+ 21  69e9f3ad86e5b64551ba297d         10  9-15
+ 22  69e5539f2bfcf6b2e630f1e9          9  9-15
+ 23  69e9fa66551a2cb157c0c1bb         13  9-15
+ 24  69e9e255551a2cb157c0bfb0         15  9-15
+ 25  69e63e062bfcf6b2e630fc46         10  9-15
+ 26  69e7ccfa551a2cb157c0ae2a         10  9-15
+ 27  69e25cf32bfcf6b2e630d35a          9  9-15
+ 28  69f08d7e86e5b64551ba6754         10  9-15
+ 29  69e5c586551a2cb157c0934e         15  9-15
+ 30  69ef07d0e593340322ec8381          9  9-15
+ 31  69f0edd986e5b64551ba6cf0         69  >15 (scontrino lungo)
+ 32  69e5e74e2bfcf6b2e630f563         20  >15 (scontrino lungo)
+ 33  69e38b84551a2cb157c07fe9         35  >15 (scontrino lungo)
+ 34  69eb0fd9551a2cb157c0cb5e         17  >15 (scontrino lungo)
+ 35  69e8eb2f2bfcf6b2e631184b         21  >15 (scontrino lungo)
+ 36  69e65c1786e5b64551ba0660         70  >15 (scontrino lungo)
+ 37  69ee565586e5b64551ba5464         22  >15 (scontrino lungo)
+ 38  69efacdb86e5b64551ba6111         23  >15 (scontrino lungo)
+ 39  69ecb40d86e5b64551ba4741         42  >15 (scontrino lungo)
+ 40  69e4eb4e2bfcf6b2e630ee59         26  >15 (scontrino lungo)
+ 41  69efab2286e5b64551ba60f9         31  >15 (scontrino lungo)
+ 42  69e776982bfcf6b2e631090c         40  >15 (scontrino lungo)
+ 43  69e20eee86e5b64551b9d5a2         31  >15 (scontrino lungo)
+ 44  69e50baa86e5b64551b9f84b         17  >15 (scontrino lungo)
+ 45  69e129d82155a46dbb94bf23         27  >15 (scontrino lungo)
